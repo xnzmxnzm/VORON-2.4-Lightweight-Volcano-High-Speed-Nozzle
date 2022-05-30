@@ -13,6 +13,6 @@ CAD文件过大也没办法发上来~有点纠结
 
 # 效果视频
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1p54y1o7Pg&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+https://www.bilibili.com/video/BV1p54y1o7Pg/
 
 ![Alt text](https://github.com/xnzmxnzm/VORON-2.4-Lightweight-Volcano-High-Speed-Nozzle/blob/main/V3/pp.png)
